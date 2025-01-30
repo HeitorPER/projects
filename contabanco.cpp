@@ -65,7 +65,7 @@ int main() {
     p1.saque(1000);
 
     i1.deposito(100);
-    i1.saque(1100);
+    i1.saque(1000);
 
     contas.push_back(&p1);
     contas.push_back(&i1);
